@@ -16,7 +16,7 @@ const Container = styled.div`
     display: flex;
     justify-content: center;
     background-color: #050505;
-    padding: 50px;
+    padding: 70px;
     img {
         width: 45%;
         box-shadow: 0 0 50px 50px rgba(0, 0, 0, 0.8);
