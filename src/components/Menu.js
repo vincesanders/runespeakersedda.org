@@ -4,42 +4,42 @@ const Menu = () => {
     return (
     <header>
         <div>
-            <a className='logo'>Runespeaker's Edda</a>
+            <a href='#' className='logo'>Runespeaker's Edda</a>
         </div>
         <nav>
             <ul>
                 <li>
-                    <a>Menu Item 1</a>
+                    <a href='#'>Menu Item 1</a>
                 </li>
             </ul>
             <ul>
                 <li>
-                    <a>Menu Item 1</a>
+                    <a href='#'>Menu Item 1</a>
                 </li>
             </ul>
             <ul>
                 <li>
-                    <a>Menu Item 1</a>
+                    <a href='#'>Menu Item 1</a>
                 </li>
             </ul>
             <ul>
                 <li>
-                    <a>Menu Item 1</a>
+                    <a href='#'>Menu Item 1</a>
                 </li>
             </ul>
             <ul>
                 <li>
-                    <a>Menu Item 1</a>
+                    <a href='#'>Menu Item 1</a>
                 </li>
             </ul>
             <ul>
                 <li>
-                    <a>Menu Item 1</a>
+                    <a href='#'>Menu Item 1</a>
                 </li>
             </ul>
             <ul>
                 <li>
-                    <a>Menu Item 1</a>
+                    <a href='#'>Menu Item 1</a>
                 </li>
             </ul>
         </nav>
