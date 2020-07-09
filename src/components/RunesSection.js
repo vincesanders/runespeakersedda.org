@@ -63,11 +63,14 @@ const Section = styled.section`
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 100%;
     color: #fff;
     h2 {
         font-size: 5rem;
         margin: 50px;
+        padding-top: 50px;
+        border-top: 3px solid #1b1b1b;
+        width: 85%;
+        text-align: center;
     }
     .runes-transliteration-images {
         width: 85%;
