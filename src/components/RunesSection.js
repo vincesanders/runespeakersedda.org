@@ -55,6 +55,7 @@ const RunesSection = () => {
                     <img src={runes} />
                 </div>
             </div>
+            <div className='bottom-border' />
         </Section>
     );
 }
@@ -67,7 +68,7 @@ const Section = styled.section`
     h2 {
         font-size: 5rem;
         margin: 50px;
-        padding-top: 50px;
+        padding-top: 75px;
         border-top: 3px solid #1b1b1b;
         width: 85%;
         text-align: center;
@@ -110,12 +111,18 @@ const Section = styled.section`
             box-shadow: 0 0 30px 0 #000;
             width: 70%;
             padding: 25px;
+            border-radius: 5px;
             img {
                 width: 85%;
                 max-height: 85%;
                 box-shadow: 0 0 30px 0 #000;
             }
         }
+    }
+    .bottom-border {
+        width: 85%;
+        border-bottom: 3px solid #1b1b1b;
+        margin-top: 75px;
     }
 `
 

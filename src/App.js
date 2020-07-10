@@ -3,6 +3,7 @@ import Menu from './components/Menu';
 import CTA from './components/CTA';
 import SideBar from './components/SideBar';
 import RunesSection from './components/RunesSection';
+import ContactForm from './components/ContactForm';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <SideBar />
       <CTA />
       <RunesSection />
+      <ContactForm />
     </div>
   );
 }
